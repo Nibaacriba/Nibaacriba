@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Gabriel Barbaceli!
 
 🎓 Software Engineering student at the **University of Brasília (UnB)** since 2021.
-💻 Front-End Developer with 2 years of experience.
+💻 Front-End Developer with 3 years of experience.
 
 ---
 
@@ -30,9 +30,12 @@ I'm passionate about software development, focused on building modern and intera
 
 During my studies at UnB, I've also had the opportunity to work with:
 
-- **C**: Introduced in foundational programming courses.
-- **C#**: Built a game in Unity during my first semester.
+- **Python**: Developed scripts and small applications, focusing on data manipulation, automation, and rapid prototyping.
 - **Java**: Applied in multiple academic projects, gaining a solid foundation in object-oriented programming.
+- **C#**: Built a game in Unity during my first semester.
+- **C**: Introduced in foundational programming courses.
+- **Assembly(Mostly risc-v)**: Explored low-level programming concepts and hardware interactions, gaining insight into CPU operations and memory management.
+
 
 While my primary focus is JavaScript and front-end development, these experiences have given me a broader understanding of software development principles.
 
