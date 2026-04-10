@@ -43,7 +43,7 @@ Through my Engineering degree, I've mastered core CS concepts using:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](LINK_DO_SEU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbaceli-a431a3217/)
 
 ---
 
